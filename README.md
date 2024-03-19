@@ -16,17 +16,17 @@ This app is built using Laravel PHP framework and Filament admin panel. It provi
 
 <p align="center">
     Dashboard <br>
-    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/dashboard.png" width="400">
+    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/dashboard.png">
 </p>
 
 <p align="center">
     Games <br>
-    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/games.png" width="400">
+    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/games.png">
 </p>
 
 <p align="center">
     Teams <br>
-    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/teams.png" width="400">
+    <img src="https://raw.githubusercontent.com/daamnr/Aptavis-Test/main/public/assets/demos/teams.png">
 </p>
 
 
